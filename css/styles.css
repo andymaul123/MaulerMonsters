@@ -178,12 +178,12 @@ sup {
     vertical-align: super;
 }
 .leftcol {
-    width: 45%;
+    width: 37%;
     float: left;
     padding: 0 2.5% 0 2.5%;
 }
 .rightcol {
-    width: 45%;
+    width: 53%;
     float: right;
     padding: 0 2.5% 0 2.5%;
 }
